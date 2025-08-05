@@ -36,7 +36,7 @@ Nice to meet you! I’m a seasoned technology executive with 20+ years of experi
 
 ## 🧰 Tech Toolbox
 
-**Cloud & Infrastructure**: Azure, AWS, Terraform, Docker, Kubernetes 
+**Cloud & Infrastructure**: Azure, AWS, Terraform, Docker, Kubernetes  
 **IAM & Security**: Entra, Active Directory, MIM, SailPoint, Okta, Ping, SCIM, SAML, PAM  
 **Automation**: PowerShell, Python, Azure Functions, GitHub Actions  
 **DevOps & Monitoring**: Azure DevOps, GitHub, GitLab, Atlassian, Jenkins, App Insights, Sentinel, Splunk  
