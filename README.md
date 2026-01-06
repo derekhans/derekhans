@@ -8,19 +8,19 @@ Nice to meet you! I’m a seasoned technology executive with 20+ years of experi
 
 ## What I Do
 
-- **Digital Transformation & IT Strategy**  
+**Digital Transformation & IT Strategy**  
   I create and lead initiatives that modernize enterprise ecosystems, align technology with business objectives, and unlock new operational capabilities. By driving cloud adoption, automation, and data‑driven decision frameworks, I help organizations streamline processes, optimize performance, and elevate overall business effectiveness. My focus is building resilient, scalable, and future‑ready platforms that empower teams, accelerate innovation, and deliver measurable impact across the enterprise.
 
-- **Identity & Access Management**  
+**Identity & Access Management**  
   I drive programs and strategies that safeguard critical assets, strengthen compliance, and enable frictionless experiences. By architecting scalable frameworks, modernizing authentication and governance models, and integrating Zero Trust principles, I help organizations reduce risk while expanding operational capability. My focus is delivering secure-by-design ecosystems that streamline access, enhance visibility, and empower the business to operate with confidence, agility, and resilience.
 
-- **Cloud & Infrastructure Modernization**  
+**Cloud & Infrastructure Modernization**  
   I lead key directives that transform legacy environments into scalable, high‑performance platforms aligned with enterprise strategy. By architecting multi‑cloud ecosystems, implementing automation and DevSecOps practices, and optimizing cost and performance, I help organizations increase agility, resilience, and operational efficiency. My focus is building modern, cloud‑native foundations that accelerate innovation, strengthen reliability, and enable the business to move faster with confidence.
 
-- **Automation, Platform Engineering & DevSecOps**  
+**Automation, Platform Engineering & DevSecOps**  
   I build solutions that streamline software and solution delivery, strengthen reliability, reduce cost and waste, and embed security into every stage of the development lifecycle. By building scalable platforms, codifying infrastructure, and integrating continuous compliance, I help organizations accelerate deployment velocity while reducing operational friction. My focus is creating automated, resilient ecosystems that empower engineering teams, enhance consistency, and drive measurable improvements in quality, performance, and business agility.
 
-- **Customer, Employee & Developer Experience**  
+**Customer, Employee & Developer Experience**  
   I elevate digital experiences by designing intuitive, integrated ecosystems that remove friction and empower people to do their best work. By modernizing collaboration platforms, streamlining workflows, and building developer‑centric tooling and automation, I help organizations boost productivity, accelerate delivery, and strengthen engagement. My focus is creating seamless, human‑centered experiences that enhance satisfaction, unlock creativity, and drive meaningful business impact across the enterprise.
 
 ---
@@ -46,9 +46,13 @@ Nice to meet you! I’m a seasoned technology executive with 20+ years of experi
 ## Tech Toolbox
 
 **Cloud & Infrastructure**: Azure, AWS, VMWare, Hyper‑V, Docker, Kubernetes, Azure Virtual Desktop, Terraform, Veeam 
+
 **IAM & Security**: Microsoft Entra, Active Directory/AAD, Microsoft Identity Manager (MIM), SailPoint (IIQ & IdentityNow), Okta, Ping Identity, Quest Active Roles, AWS Cognito, AWS Identity Center, SCIM, SAML, PKI, MFA, RBAC, CyberArk, Microsoft Defender, Azure Key Vault, HashiCorp Vault, Azure Sentinel, Splunk, Log Analytics
+
 **Automation**: PowerShell, Python, Azure Functions, AWS Lambda, GitHub Actions, Logic Apps, UIPath, AutomationAnywhere, Power Automate, Orchestrator, Rundeck
+
 **DevOps & Monitoring**: Azure DevOps, Azure Pipelines, Jenkins, GitHub, GitLab, Bitbucket, Jira, Confluence, Artifactory, Grafana, Prometheus, ElasticSearch, Kafka, Application Insights, PagerDuty
+
 **Collaboration & Experience**: Microsoft 365, Exchange Online, Teams, SharePoint Online, OneDrive, Viva, PowerApps, PowerBI, Zoom, Slack, GSuite, PSTN/VOIP Advanced Voice, VDI
 
 ---
